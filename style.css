@@ -1,0 +1,9 @@
+.error .input-field {
+  border-color: red;
+}
+
+.error-label {
+  display: block;
+  color: red;
+  margin-bottom: 10px;
+}
